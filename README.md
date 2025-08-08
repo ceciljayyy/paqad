@@ -1,2 +1,1 @@
-# paqad
-futuristic smart attendance and event management system
+Paqad – A GPS-powered attendance tracking system with geofencing, real-time reporting, role-based dashboards, and manual/biometric check-in options. Built with Next.js, Express.js, and PostgreSQL, deployed as a PWA for cross-platform accessibility.
